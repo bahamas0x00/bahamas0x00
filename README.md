@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bahamas0x00
+- 👋 Hi, I’m Bahamas
 - 👀 interested in coding , Sre
 - 🌱 currently learning c and golang
 
