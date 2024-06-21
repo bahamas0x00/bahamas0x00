@@ -2,7 +2,7 @@
 - 👀 interested in coding , Sre
 - 🌱 currently learning c and golang
 
-- 📫 How to reach me ...
+- 📫**Twitter**: [@Tyroney13](https://twitter.com/Tyroney13)
 - 😄 Pronouns: He/Him
 
 
