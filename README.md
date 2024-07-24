@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bahamas
-- 👀 interested in coding , Sre
+- 👀 interested in coding , Sre , Cyber Security
 - 🌱 currently learning c and golang
 
 - 📫Twitter: [@Tyroney13](https://twitter.com/Tyroney13)
