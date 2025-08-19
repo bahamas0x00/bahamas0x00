@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Bahamas
-- 👀 interested in coding , Sre , Cyber Security
-- 🌱 currently learning c and golang
+- 👀 coding , Sre , Cyber Security
+- 🌱 c# and golang
 
-- 📫Twitter: [@Tyroney13](https://twitter.com/Tyroney13)
 
 
 
