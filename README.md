@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bahamas
 - 👀 coding , Sre , Cyber Security
-- 🌱 c# and golang
 
 
 
